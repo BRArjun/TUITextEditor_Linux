@@ -18,7 +18,7 @@ def remove_flag_file():
 # Check if the flag file exists
 if not os.path.exists(flag_file):
     # Command to be executed
-    command = "cd ~; cd TUIText; python3 TUIEdit.py; exec bash"
+    command = "cd ~; cd TUITextEditor; python3 TUIEdit.py; exec bash"
 
     # Open a new terminal and execute the command
     subprocess.run(['gnome-terminal', '--', 'bash', '-c', command])

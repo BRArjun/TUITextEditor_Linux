@@ -1,4 +1,4 @@
-([('TUIEdit', '/home/kraken/TUIText/build/TUIEdit/TUIEdit', 'EXECUTABLE'),
+([('TUIEdit', '/home/kraken/TUITextEditor/build/TUIEdit/TUIEdit', 'EXECUTABLE'),
   ('libpython3.10.so', '/lib/x86_64-linux-gnu/libpython3.10.so', 'BINARY'),
   ('lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so',
    '/usr/lib/python3.10/lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so',
@@ -54,5 +54,5 @@
   ('libtinfo.so.6', '/lib/x86_64-linux-gnu/libtinfo.so.6', 'BINARY'),
   ('libncursesw.so.6', '/lib/x86_64-linux-gnu/libncursesw.so.6', 'BINARY'),
   ('base_library.zip',
-   '/home/kraken/TUIText/build/TUIEdit/base_library.zip',
+   '/home/kraken/TUITextEditor/build/TUIEdit/base_library.zip',
    'DATA')],)
