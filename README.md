@@ -9,11 +9,12 @@ CursesEditor is a simple and lightweight text editor built using Python's `curse
 - **Configurable keybindings**: Customize keyboard shortcuts to suit your preferences.
 
 ## Demo
-![Video Demo](https://user-images.githubusercontent.com/BRArjun/TUITextEditor/TUIDemo.mp4)
+
+https://github.com/BRArjun/TUITextEditor/assets/123864588/6b2bed90-8397-4051-849c-5afd2dfdd887
 
 ## Installation
 
-CursesEditor is packaged as a standalone executable using PyInstaller, so you don't need to install Python or any dependencies separately. Simply download the latest release from the [Releases](https://github.com/BRArjun/CursesEditor/releases) page and run the executable file.
+CursesEditor is packaged as a standalone executable using PyInstaller, so you don't need to install Python or any dependencies separately. Simply download the latest release from the [Releases](https://github.com/BRArjun/TUITextEditor/releases) page and run the executable file.
 
 For Linux and macOS users:
 
