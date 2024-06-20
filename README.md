@@ -9,11 +9,7 @@ CursesEditor is a simple and lightweight text editor built using Python's `curse
 - **Configurable keybindings**: Customize keyboard shortcuts to suit your preferences.
 
 ## Demo
-
-<video width="320" height="240" controls>
-  <source src="TUIDemo.mp4" type="video/mp4">
-</video>
-
+![Video Demo](https://user-images.githubusercontent.com/BRArjun/TUITextEditor/TUIDemo.mp4)
 
 ## Installation
 
