@@ -7,7 +7,14 @@ CursesEditor is a simple and lightweight text editor built using Python's `curse
 - **Simple and intuitive interface**: CursesEditor offers a clean and minimalistic interface, allowing you to focus on your text editing without any distractions.
 - **File management**: Open, save, and create new text files directly from the editor.
 - **Configurable keybindings**: Customize keyboard shortcuts to suit your preferences.
-  
+
+## Demo
+
+<video width="320" height="240" controls>
+  <source src="TUIDemo.mp4" type="video/mp4">
+</video>
+
+
 ## Installation
 
 CursesEditor is packaged as a standalone executable using PyInstaller, so you don't need to install Python or any dependencies separately. Simply download the latest release from the [Releases](https://github.com/BRArjun/CursesEditor/releases) page and run the executable file.
