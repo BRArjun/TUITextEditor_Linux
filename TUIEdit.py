@@ -57,7 +57,7 @@ class MicroEditor:
             time.sleep(0.1)
         self.window.clear()
         self.window.refresh()
-        self.window.addstr("To exit use Esc+q\nTo save use Esc+s\nTo save and exit use Esc+x\nTo open a file for viewing/editing use Esc+o\nTo access the builtin Groq AI Assistant you can use Esc+\n\n")
+        self.window.addstr("To exit use Esc+q\nTo save use Esc+s\nTo save and exit use Esc+x\nTo open a file for viewing/editing use Esc+o\nTo access the builtin Groq AI Assistant you can use Esc+b\n\n")
         self.window.refresh()
         time.sleep(4)
         self.window.clear()
