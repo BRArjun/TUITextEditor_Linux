@@ -26,6 +26,8 @@ chmod +x TUITextEditor  # Make the file executable
 
 https://github.com/BRArjun/TUITextEditor_Python/assets/123864588/3f451473-bbe5-409b-9f05-f4cdf69b7506
 
+I can access the AI Assistant right from the text editor using the Esc + b combination.
+
 ## Upcoming features
 - [ ] Syntax Highlighting
 - [ ] Plugin Support
