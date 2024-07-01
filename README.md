@@ -8,6 +8,8 @@ This is a basic TUI Text editor made with curses in Python and packaged using Py
 - **File management**: Open, save, and create new text files directly from the editor.
 - **Configurable keybindings**: Customize keyboard shortcuts to suit your preferences.
 - **Cross-platform compatibility**: CursesEditor is designed to run on Windows, macOS, and Linux operating systems.
+- **Inbuilt AI Functionality**: This editor comes with free AI functionality embedded into it using the Groq API.
+To access this you will need to have an API key for Groq yourself.
 
 Make sure that you have windows-ncurses before using this project on Windows(have not yet verified that it is working)
 
