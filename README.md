@@ -31,6 +31,7 @@ https://github.com/BRArjun/TUITextEditor_Python/assets/123864588/3f451473-bbe5-4
 I can access the AI Assistant right from the text editor using the Esc + b combination.
 
 ## Upcoming features
+- [ ] Content Aware Suggestions and Autocomplete 
 - [ ] Syntax Highlighting
 - [ ] Plugin Support
 - [ ] Collaborative Editing
